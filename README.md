@@ -8,3 +8,5 @@ Courses taken so far include:
     2. Langchain for LLM Application Development
 
     3. Building Systems with the ChatGPT API
+
+    4. Langchain Chat with Your Data
